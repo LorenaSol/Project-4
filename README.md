@@ -1,4 +1,3 @@
-# Project 4
 # A Nice Cold Beverage for the Hot Summer
  # About
  During the hot summer, I decided to make myself a strawberry limeade slushy in order to help he cool down.
